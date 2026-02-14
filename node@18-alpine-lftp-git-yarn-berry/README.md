@@ -7,7 +7,7 @@ Dockerfile for custom fit.
 
 # Links
 - [DockerHub](https://hub.docker.com/r/oshios/node)
-- [GitHub](https://github.com/oshx/docker/tree/master/node:18-alpine-lftp-git-yarn-berry)
+- [GitHub](https://github.com/oshx/docker/tree/master/node@18-alpine-lftp-git-yarn-berry)
 
 # Pull
 ```sh
